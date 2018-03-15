@@ -19,3 +19,4 @@
 #glyptodon-control:checked ~ .carousel-inner [for="glyptodon-control"],
 #megatherium-control:checked ~ .carousel-inner [for="megatherium-control"] {
   background-color: #fff;
+}
